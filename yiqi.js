@@ -26,5 +26,5 @@ window.onload=function(){
 
                 }
                 hao.onclick=function(){
-                                alert(你终于同意了！");
+                                alert("你终于同意了！");
                 }
